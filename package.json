@@ -1,0 +1,20 @@
+{
+  "name": "node-web-api-mongo-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.0",
+    "express": "~4.13.4",
+    "lodash": "^4.3.0",
+    "mongoose": "^4.4.3",
+    "request": "^2.69.0"
+  }
+}
